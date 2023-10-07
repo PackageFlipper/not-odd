@@ -1,9 +1,9 @@
 const iseven = require('is-even');
 const isOdd = require('is-odd');
-const isEven = num =>iseven(num);
-const isOdd = num =>isOdd(num);
+const notOdd = num =>iseven(num);
+const notEven = num =>isOdd(num);
 
 module.exports =  {
-  isEven, 
-  isOdd
+  notOdd, 
+  notEven
 }
