@@ -1,6 +1,6 @@
 {
   "name": "not-odd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "checks if the number provided is not odd",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,12 @@
     "url": "git+https://github.com/DeaSTL/not-odd.git"
   },
   "keywords": [
-    "not-odd"
+    "not-odd",
+    "not odd",
+    "even",
+    "is even",
+    "numbers",
+    "math"
   ],
   "author": "deastl",
   "license": "MIT",

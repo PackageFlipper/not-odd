@@ -13,3 +13,6 @@ notodd(4) // => true
 ```
 
 that's it
+
+
+[Buy Me Coffee!](https://www.buymeacoffee.com/packageflippers)
